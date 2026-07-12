@@ -15,6 +15,11 @@ header{
    
   
 }
+header {
+   position: sticky;
+   top: 0px;
+   z-index: 100; /* Ye line add karen */
+}
 
 
 
@@ -78,6 +83,7 @@ ul li{
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat; */
+    
     display: flex;     
     width: 100%;
     justify-content: center;
@@ -95,7 +101,7 @@ ul li{
 }
 .Home::before {
     content: ""; /* important - pseudo element won't appear without it */
-    background-image: url("nav home.avif");
+    background-image: url("images/nav home.avif");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -201,9 +207,10 @@ height: 124px;
 
 .clients::before{
     content: "";
-    background: url("Nav\ Home.jpg");
+    background: url("images/Nav\ Home.jpg") ;
     background-size: cover;
-    background-position: center;
+    background-position:  no-repeat center;
+
     height: 750px;
     width: 100%;
     position: absolute;
