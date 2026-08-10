@@ -16,7 +16,8 @@ A beautifully designed, modern, and interactive single-page food delivery websit
 ---
 
 ## 📸 Project Previews & Screenshots
-<img width="1348" height="656" alt="Screenshot (2027)" src="https://github.com/user-attachments/assets/c57b45d4-2b7c-48b8-92b9-b6f122259c57" />
+<img width="1341" height="620" alt="Screenshot (2524)" src="https://github.com/user-attachments/assets/2fb81b36-feff-48ed-a3ce-9b8589a9246d" />
+
 <img width="1345" height="633" alt="Screenshot (2028)" src="https://github.com/user-attachments/assets/1a327bba-b3b2-4ba0-ba62-fe4e6d7ceee1" />
 <img width="1340" height="658" alt="Screenshot (2029)" src="https://github.com/user-attachments/assets/603b99b0-e377-4b94-9010-2a3d57555ff0" />
 
